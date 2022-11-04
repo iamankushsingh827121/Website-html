@@ -1,0 +1,82 @@
+header{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: bisque;
+    background-size: auto;
+    border-width: 150%;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 0px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+}
+.Design{
+    font-size: 70px;
+    letter-spacing: normal;
+    color: #222f3e;
+    right: 5%;    
+}
+.Menu a{
+    text-decoration: none;
+    padding: 20px 20px;
+    font-size: 30px;
+    color: black;
+}
+.Menu a:last-child{
+    background: black;
+    border-radius: 8px;
+    letter-spacing: 2px;
+    color: white;
+}
+.text{
+    max-width: 500px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+.h1{
+    font-size: 7em;
+    color: #324158;
+    font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+}
+.text a{
+text-decoration: none;
+background: #1a3a41;
+color: white;
+font-size: 30px;
+padding: 10px 20px;
+border-radius: 10px;
+font-family: 'Dancing Script', cursive;
+}
+.text a:hover{
+    background: transparent;
+    transition: 0.1s;
+    border: 0.5px solid black;
+    color: black;
+}
+img{
+    width: 30%;
+    height: 65%;
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    border-radius: 15px;
+}
+p{
+    font-size: 20px;
+
+}
+.logo{
+   color: black;
+    font-size: 15px;
+    padding:0px 10px;
+    text-align: center;
+}
