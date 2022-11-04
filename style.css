@@ -1,0 +1,13 @@
+body{
+    background-color: #082122;
+    text-align: center;
+
+}
+img{
+    border-radius: 5%;
+    vertical-align: 100%;
+}
+div{
+    text-transform: capitalize;
+    text-size-adjust: 16px;
+}
